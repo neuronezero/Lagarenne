@@ -2,7 +2,7 @@
     <div class="substances">
         <NavBar></NavBar>
         <h2>{{title}}</h2>
-
+        <p>TEST</p>
         <Footer></Footer>
     </div>
 </template>
